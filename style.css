@@ -762,8 +762,8 @@ Footer section Area CSS
     .fourth_box_metadata img {
         margin-left: 5px;
     }
-    .fourth_search {
-        padding: 20px 20px;
+      .fourth_search {
+        padding: 20px 15px;
     }
     .fourth_search a {
         padding: 25px 20px;
@@ -916,9 +916,6 @@ Footer section Area CSS
     }
     .fourth_box_metadata img {
         margin-left: 5px;
-    }
-    .fourth_search {
-        padding: 20px 20px;
     }
     .fourth_search a {
         padding: 25px 20px;
@@ -1195,6 +1192,9 @@ Footer section Area CSS
         font-size: 18px;
         color: white;
     }
+        .fourth_search {
+        padding: 20px 15px;
+    }
 }
 
 
@@ -1239,9 +1239,7 @@ Footer section Area CSS
     .fourth_box_metadata img {
         margin-left: 5px;
     }
-    .fourth_search {
-        padding: 20px 20px;
-    }
+
     .fourth_search a {
         padding: 25px 20px;
         margin-left: 5px;
@@ -1517,6 +1515,9 @@ Footer section Area CSS
     .header_area .main_menu ul li a{
         font-size: 18px;
         color: white;
+    }
+    .fourth_search {
+        padding: 20px 15px;
     }
 
 }
